@@ -28,7 +28,7 @@ Notes below this line ----------------------------------------------------------
 Very rarely does a program accept reports through GitHub. Contact the security team, the org open source team, or if possible use a 
 bug bounty platform such as HackerOne or Bugcrowd. 
 
-An example here, Electron, uses a specified email address with instructions. https://github.com/electron/electron/blob/master/SECURITY.md
+Another option is the one above which uses a specific email address to send to.
 
-More research and a decision to be made on how the community can safely and 
+A final decision needs to be made on how the community can safely and 
 privately report vulnerabilities.
