@@ -1,6 +1,9 @@
 # Our Security Policy
 
-***** This is an incomplete draft and should not be used as is at this point.
+## Authentication
+
+This repository's organization requires organization members to enable two-factor authentication to their personal accounts. For more information on enforcing two-factor authentication and enabling two-factor authentication on your personal account, see [Requiring two-factor authentication in your organization](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/requiring-two-factor-authentication-in-your-organization).
+
 
 ## Supported Versions
 
