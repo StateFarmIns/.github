@@ -14,16 +14,21 @@ currently being supported with security updates.
 | x.x.x   | :white_check_mark: |
 | < x.x   | :x:                |
 
-## Reporting a Vulnerability
+## Reporting Security Issues
 
-Use this section to tell people how to report a vulnerability.
+Thank you for your concern in identifying and disclosing to us security issues and vulnerabilities. We take every effort to make security a top priority.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+To report a security issue, please email <os-security@statefarm.com (this is an example and not known email address). Include the word "SECURITY" in the subject line. We will be in contact with you and will work through GitHub's Security Advisories, within our GitHub repository, to discuss, fix, and publish information about security vulnerabilities within our repository's code. We will keep you informed throughout the progress and may ask you for additional information to help resolve the security issue..
 
-Reporting your Findings
-As always when it comes to bug bounty hunting, read the program's policy thoroughly. 
+We appreciate your help as a contributor and will always do our best to acknowledge your contributions to <our project>.
+
+
+Notes below this line ---------------------------------------------------------------------
+
 Very rarely does a program accept reports through GitHub. Contact the security team, the org open source team, or if possible use a 
-bug bounty platform such as HackerOne or Bugcrowd. More research and a decision to be made on how the community can safely and 
+bug bounty platform such as HackerOne or Bugcrowd. 
+
+An example here, Electron, uses a specified email address with instructions. https://github.com/electron/electron/blob/master/SECURITY.md
+
+More research and a decision to be made on how the community can safely and 
 privately report vulnerabilities.
