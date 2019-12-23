@@ -21,7 +21,7 @@ currently being supported with security updates.
 
 Thank you for your concern in identifying and disclosing to us security issues and vulnerabilities. We take every effort to make security a top priority.
 
-To report a security vulnerability, please email <os-security@statefarm.com> (this is an example and not known email address). Include the word "SECURITY" in the subject line. We will be in contact with you and will work through GitHub's Security Advisories, within our GitHub repository, to discuss, fix, and publish information about security vulnerabilities within our repository's code. We will keep you informed throughout the progress and may ask you for additional information to help resolve the security issue..
+To report a security vulnerability, please email <OS-Program-Office@statefarm.com>. Include the word "SECURITY" in the subject line. We will be in contact with you and will work through GitHub's Security Advisories, within our GitHub repository, to discuss, fix, and publish information about security vulnerabilities within our repository's code. We will keep you informed throughout the progress and may ask you for additional information to help resolve the security issue..
 
 We appreciate your help as a contributor and will always do our best to acknowledge your contributions to '<our project>'.
 
