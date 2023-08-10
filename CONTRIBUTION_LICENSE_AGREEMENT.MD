@@ -40,20 +40,36 @@ You are not expected to provide support for Your Contribution, unless You choose
 10. Entire Agreement/Assignment. This Agreement is the entire agreement between the parties, and supersedes any and all prior agreements, understandings or communications, written or oral, between the parties relating to the subject matter hereof. This Agreement may be assigned by State Farm.
 
 Select one of the options below and sign as indicated. By signing, You accept and agree to the terms of this Contribution License Agreement for Your present and future Contributions to State Farm.
+
 ___ 	I have sole ownership of intellectual property rights to my Contributions and I am not making Contributions in the course of work for my employer.
+
 Name (“You”): _________________________________________
+
 Signature: 	_________________________________________
+
 Date:	_________________________________________
+
 GitHub Login: 	_________________________________________
+
 Email: 	_________________________________________
+
 Address: 	_________________________________________
 
+
 ___ 	I am making Contributions in the course of work for my employer (or my employer has intellectual property rights in my Contributions by contract or applicable law). I have permission from my employer to make Contributions and enter into this Agreement on behalf of my employer. By signing below, the defined term “You” includes me and my employer.
+
 Company Name: _________________________________________
+
 Signature: 	_________________________________________
+
 By: 	_________________________________________
+
 Title: 	_________________________________________
+
 Date: 	_________________________________________
+
 GitHub Login: 	_________________________________________
+
 Email: 	_________________________________________
+
 Address: 	_________________________________________
