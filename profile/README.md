@@ -1,3 +1,4 @@
+![logo-history-current](https://github.com/user-attachments/assets/ca633986-99e3-46ac-90ce-efde5326c95a)
 # State Farm Open Source
 State Farm depends on open source communities to deliver our products and services. This is where State Farm gives back to these communities. Here are some projects that we hope you will find useful. 
 
