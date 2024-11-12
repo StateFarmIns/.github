@@ -3,7 +3,7 @@
 State Farm depends on open source communities to deliver our products and services. This is where State Farm gives back to these communities. Here are some projects that we hope you will find useful. 
 
 ## Projects
-* **[LambdaLooter](https://github.com/StateFarmIns/LambdaLooter)** This application was built to help reduce the amount of time it takes to review AWS Lambda code.
+* **[CLAWS](https://github.com/StateFarmIns/CLAWS)** This application was built to help reduce the amount of time it takes to review AWS Lambda code.
 * **[TheThingStore](https://github.com/StateFarmIns/TheThingStore)** It's a `thing to store things` which makes them *reliably* reusable in automation across a distributed environment.
 * **[terraform-aws-quicksight-user-pruning-module](https://github.com/StateFarmIns/terraform-aws-quicksight-user-pruning-module)** Save money by pruning inactive QuickSight users with this easy-to-use Terraform module.
 * **[terratest-helpers](https://github.com/StateFarmIns/terratest-helpers)** This is a GO package that you can import into your Terraform tests (Terratest) that makes it extremely easy to validate your code by abstracting away all of the assert statements.
