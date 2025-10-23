@@ -9,6 +9,7 @@ State Farm depends on open source communities to deliver our products and servic
 * **[terratest-helpers](https://github.com/StateFarmIns/terratest-helpers)** This is a GO package that you can import into your Terraform tests (Terratest) that makes it extremely easy to validate your code by abstracting away all of the assert statements.
 * **[terraform-aws-default-log-retention](https://github.com/StateFarmIns/terraform-aws-default-log-retention)** A simple Terraform module that sets log retention policies for all CloudWatch Log Groups so that you don't have to!
 * **[terraform-aws-ip-address-release](https://github.com/StateFarmIns/terraform-aws-ip-address-release)** Release VPC ENIs that get stuck after lambda deletion
+* **[destringify-any-json](https://github.com/StateFarmIns/destringify-any-json)** NPM package utility that destringifys and formats any json structure.
 
 ## Tech Blog
 **[State Farm Engineering](https://engineering.statefarm.com/)**
