@@ -11,6 +11,7 @@ State Farm depends on open source communities to deliver our products and servic
 * **[terraform-aws-ip-address-release](https://github.com/StateFarmIns/terraform-aws-ip-address-release)** Release VPC ENIs that get stuck after lambda deletion
 * **[destringify-any-json](https://github.com/StateFarmIns/destringify-any-json)** NPM package utility that destringifys and formats any json structure.
 * **[polygon-labeler](https://github.com/StateFarmIns/polygon-labeler)** A package for generating a single ideal location to label polygons.
+* **[lock-cleaner](https://github.com/StateFarmIns/lock-cleaner)** A bash script to clean and regenerate package-lock.json to ensure they don't contain custom registry paths used in dev. 
 
 ## Tech Blog
 **[State Farm Engineering](https://engineering.statefarm.com/)**
