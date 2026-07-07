@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Note: The verbiage expressed here are that of the author and are not representative of State Farm.
+Note: The verbiage expressed here is that of the author and is not representative of State Farm.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
