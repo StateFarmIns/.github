@@ -12,6 +12,7 @@ State Farm depends on open source communities to deliver our products and servic
 * **[destringify-any-json](https://github.com/StateFarmIns/destringify-any-json)** NPM package utility that destringifys and formats any json structure.
 * **[polygon-labeler](https://github.com/StateFarmIns/polygon-labeler)** A package for generating a single ideal location to label polygons.
 * **[lock-cleaner](https://github.com/StateFarmIns/lock-cleaner)** A bash script to clean and regenerate package-lock.json to ensure they don't contain custom registry paths used in dev. 
+* **[herdr-pane-pwd](https://github.com/StateFarmIns/herdr-pane-pwd)** A Herdr plugin that puts each pane's current working directory on that pane's border, so you can see what folder every pane is executing from at a glance.
 
 ## Tech Blog
 **[State Farm Engineering](https://engineering.statefarm.com/)**
