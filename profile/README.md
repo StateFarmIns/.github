@@ -6,7 +6,7 @@ State Farm depends on open source communities to deliver our products and servic
 * **[CLAWS](https://github.com/StateFarmIns/CLAWS)** This application was built to help reduce the amount of time it takes to review AWS Lambda code.
 * **[TheThingStore](https://github.com/StateFarmIns/TheThingStore)** It's a `thing to store things` which makes them *reliably* reusable in automation across a distributed environment.
 * **[terraform-aws-quicksight-user-pruning-module](https://github.com/StateFarmIns/terraform-aws-quicksight-user-pruning-module)** Save money by pruning inactive QuickSight users with this easy-to-use Terraform module.
-* **[terratest-helpers](https://github.com/StateFarmIns/terratest-helpers)** This is a GO package that you can import into your Terraform tests (Terratest) that makes it extremely easy to validate your code by abstracting away all of the assert statements.
+* **[terratest-helpers](https://github.com/StateFarmIns/terratest-helpers)** *(archived)* This is a GO package that you can import into your Terraform tests (Terratest) that makes it extremely easy to validate your code by abstracting away all of the assert statements.
 * **[terraform-aws-default-log-retention](https://github.com/StateFarmIns/terraform-aws-default-log-retention)** A simple Terraform module that sets log retention policies for all CloudWatch Log Groups so that you don't have to!
 * **[terraform-aws-ip-address-release](https://github.com/StateFarmIns/terraform-aws-ip-address-release)** Release VPC ENIs that get stuck after lambda deletion
 * **[destringify-any-json](https://github.com/StateFarmIns/destringify-any-json)** NPM package utility that destringifys and formats any json structure.
